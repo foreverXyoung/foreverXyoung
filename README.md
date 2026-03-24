@@ -99,10 +99,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=foreverXyoung&theme=radical" width="33%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=foreverXyoung&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
-
 <!-- 分隔线 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
