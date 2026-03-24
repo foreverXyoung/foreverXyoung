@@ -30,10 +30,9 @@
   关于我
 </h2>
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="8" width="100%">
+<table border="0" cellspacing="0" cellpadding="8" width="100%" style="max-width: 1200px; margin: 0 auto;">
 <tr>
-<td width="34%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 <h4>🧠 大模型与 AI 系统</h4>
 🤖 专注大语言模型训练与推理<br/>
@@ -43,7 +42,7 @@
 🔧 实践 vLLM / TensorRT 推理优化
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="34%" align="center" valign="top">
 
 <h4>🤖 机器人与具身智能</h4>
 🧭 专注机器人导航与路径规划<br/>
@@ -65,7 +64,6 @@
 </td>
 </tr>
 </table>
-</div>
 
 <!-- 分隔线 -->
 <div align="center">
