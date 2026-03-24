@@ -27,37 +27,37 @@
   关于我
 </h2>
 
-<div align="center" style="width: 100%; margin: 0 auto;">
-<table border="0" cellspacing="0" cellpadding="8" width="100%">
+<div align="center">
+<table border="0" cellspacing="10" cellpadding="10" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
 <h4 style="font-size: 18px;">🧠 大模型与 AI 系统</h4>
-🤖 专注大语言模型训练与推理<br/>
-⚡ 深耕多模态模型与AI应用<br/>
-🌐 探索RLHF与强化学习算法<br/>
-📊 研究模型压缩与端侧部署<br/>
-🔧 vLLM/TensorRT推理优化
+🤖 &nbsp;专注大语言模型训练与推理<br/>
+⚡ &nbsp;深耕多模态模型与AI应用部署<br/>
+🌐 &nbsp;探索RLHF与强化学习算法<br/>
+📊 &nbsp;研究模型压缩与端侧部署<br/>
+🔧 &nbsp;vLLM / TensorRT推理优化
 
 </td>
 <td width="34%" align="center" valign="top">
 
 <h4 style="font-size: 18px;">🤖 机器人与具身智能</h4>
-🧭 专注机器人导航与路径规划<br/>
-🌍 研究环境感知与世界建模<br/>
-🚗 探索自动驾驶决策与控制<br/>
-🏭 推进多领域机器人部署落地<br/>
-🔄 研究具身智能与人机交互
+🧭 &nbsp;专注机器人导航与路径规划<br/>
+🌍 &nbsp;研究环境感知与世界建模<br/>
+🚗 &nbsp;探索自动驾驶决策与控制<br/>
+🏭 &nbsp;推进多领域机器人部署落地<br/>
+🔄 &nbsp;研究具身智能与人机交互
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <h4 style="font-size: 18px;">👁️ 多源传感器感知</h4>
-📷 专注相机视觉与目标检测<br/>
-🖼️ 探索双目视觉与深度估计<br/>
-🔮 研究相机与激光雷达融合<br/>
-💨 GNSS/RTK/IMU组合导航<br/>
-📡 融合多传感器定位与建图
+📷 &nbsp;专注相机视觉与目标检测<br/>
+🖼️ &nbsp;探索双目视觉与深度估计<br/>
+🔮 &nbsp;研究RGB-D与激光雷达融合<br/>
+💨 &nbsp;GNSS/RTK/IMU组合导航<br/>
+📡 &nbsp;融合多传感器slam与定位
 
 </td>
 </tr>
