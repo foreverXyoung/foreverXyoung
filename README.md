@@ -2,10 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=300&section=header&text=Xiaoyang+Fan&fontSize=85&fontAlignY=28&fontAlign=center&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=68&descAlign=center&descSize=18" />
 </div>
 
-  # 👋 Hello, here is Xiaoyang Fan
-
-  <!-- 打字效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=大模型与AI系统+%7C+机器人与具身智能+%7C+多源传感器感知;AI模型部署与工程化实践+%7C+机器人导航与规划+%7C+多传感器融合;让机器更智能，让感知更精准)](https://git.io/typing-svg)
+<h2 align="center">👋 Hello, here is Xiaoyang Fan</h2>
 
   <!-- 社交按钮 -->
   <p align="center">
