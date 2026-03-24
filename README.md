@@ -27,8 +27,8 @@
   关于我
 </h2>
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="8" width="100%" style="max-width: 1200px; margin: 0 auto;">
+<div align="center" style="width: 120%; margin: 0 auto;">
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
