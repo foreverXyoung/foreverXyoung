@@ -1,8 +1,5 @@
 <div align="center">
-
-  <!-- 标题横幅 -->
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=280&section=header&text=Xiaoyang+Fan&fontSize=80&fontAlignY=30&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=70&descAlign=30&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=300&section=header&text=Xiaoyang+Fan&fontSize=85&fontAlignY=28&fontAlign=center&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=68&descAlign=center&descSize=18" />
 </div>
 
   # 👋 Hello, here is Xiaoyang Fan
@@ -33,37 +30,37 @@
   关于我
 </h2>
 
-<div align="center" style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-<div style="flex: 1; min-width: 260px; max-width: 340px; text-align: left; padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.05);">
+<div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 280px; max-width: 400px; text-align: left; padding: 20px; border-radius: 12px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08);">
 
 ### 🧠 大模型与 AI 系统
 
-🤖 专注于 **大语言模型(LLMs)训练与推理**
-⚡ 探索 **多模态模型架构与应用**
-🌐 开发 **AI 应用的高效部署与工程化实践**
-📊 研究 **强化学习与 RLHF**
+🤖 专注于 **大语言模型(LLMs)训练与推理**<br/>
+⚡ 探索 **多模态模型架构与应用**<br/>
+🌐 开发 **AI 应用的高效部署与工程化实践**<br/>
+📊 研究 **强化学习与 RLHF**<br/>
 🔧 深入 **模型压缩与端侧部署**
 
 </div>
-<div style="flex: 1; min-width: 260px; max-width: 340px; text-align: left; padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.05);">
+<div style="flex: 1; min-width: 280px; max-width: 400px; text-align: left; padding: 20px; border-radius: 12px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08);">
 
 ### 🤖 机器人与具身智能
 
-🧭 专研 **机器人导航与路径规划**
-🌍 研究 **世界认知与环境理解**
-🚗 探索 **自动驾驶感知与决策**
-🏭 推进 **多领域机器人部署落地**
+🧭 专研 **机器人导航与路径规划**<br/>
+🌍 研究 **世界认知与环境理解**<br/>
+🚗 探索 **自动驾驶感知与决策**<br/>
+🏭 推进 **多领域机器人部署落地**<br/>
 🔄 研究 **具身智能与人机协作**
 
 </div>
-<div style="flex: 1; min-width: 260px; max-width: 340px; text-align: left; padding: 16px; border-radius: 12px; background: rgba(255,255,255,0.05);">
+<div style="flex: 1; min-width: 280px; max-width: 400px; text-align: left; padding: 20px; border-radius: 12px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08);">
 
 ### 👁️ 多源传感器感知
 
-📷 研究 **相机视觉感知与目标检测**
-🖼️ 探索 **双目立体视觉与深度估计**
-🔮 应用 **RGB-D 深度相机技术**
-💨 研究 **激光雷达点云处理与融合**
+📷 研究 **相机视觉感知与目标检测**<br/>
+🖼️ 探索 **双目立体视觉与深度估计**<br/>
+🔮 应用 **RGB-D 深度相机技术**<br/>
+💨 研究 **激光雷达点云处理与融合**<br/>
 📡 融合 **GNSS、RTK、IMU 等定位技术**
 
 </div>
