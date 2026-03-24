@@ -33,7 +33,7 @@
 <tr>
 <td width="33%" align="center" valign="top">
 
-<h4 style="font-size: 18px;">🧠 大模型与 AI 系统</h4>
+<h4 style="font-size: 18px; color: #0891B2;">🧠 大模型与 AI 系统</h4>
 🤖 &nbsp;专注大语言模型训练与推理<br/>
 ⚡ &nbsp;深耕多模态模型与AI应用部署<br/>
 🌐 &nbsp;探索RLHF与强化学习算法<br/>
@@ -43,7 +43,7 @@
 </td>
 <td width="34%" align="center" valign="top">
 
-<h4 style="font-size: 18px;">🤖 机器人与具身智能</h4>
+<h4 style="font-size: 18px; color: #0891B2;">🤖 机器人与具身智能</h4>
 🧭 &nbsp;专注机器人导航与路径规划<br/>
 🌍 &nbsp;研究环境感知与世界建模<br/>
 🚗 &nbsp;探索自动驾驶决策与控制<br/>
@@ -53,7 +53,7 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-<h4 style="font-size: 18px;">👁️ 多源传感器感知</h4>
+<h4 style="font-size: 18px; color: #0891B2;">👁️ 多源传感器感知</h4>
 📷 &nbsp;专注相机视觉与目标检测<br/>
 🖼️ &nbsp;探索双目视觉与深度估计<br/>
 🔮 &nbsp;研究RGB-D与激光雷达融合<br/>
