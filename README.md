@@ -34,7 +34,7 @@
 
 <h4 style="font-size: 18px;">🧠 大模型与 AI 系统</h4>
 🤖 &nbsp;专注大语言模型训练与推理<br/>
-⚡ &nbsp;深耕多模态模型与AI应用部署<br/>
+⚡ &nbsp;深耕多模态模型与AI部署<br/>
 🌐 &nbsp;探索RLHF与强化学习算法<br/>
 📊 &nbsp;研究模型压缩与端侧部署<br/>
 🔧 &nbsp;vLLM / TensorRT推理优化
