@@ -129,22 +129,14 @@
   </a>
 </div>
 
-<!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
+<!-- 实时贡献日历热图 -->
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub 活动
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
-<!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foreverXyoung&theme=radical" width="100%" />
 </div>
 
