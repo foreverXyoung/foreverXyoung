@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=300&section=header&text=Xiaoyang+Fan&fontSize=85&fontAlignY=28&fontAlign=center&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=68&descAlign=center&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=300&section=header&text=Xiaoyang+Fan&fontSize=85&fontAlignY=28&fontAlign=center&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=68&descAlign=center&descSize=18" />
 </div>
 
 <h2 align="center">👋 Hello, here is Xiaoyang Fan</h2>
 
-  <!-- 社交按钮 -->
-  <p align="center">
-    <a href="https://github.com/foreverXyoung"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+<!-- 社交按钮 -->
+<p align="center">
+  <a href="https://github.com/foreverXyoung"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-  <!-- 访问统计 -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=foreverXyoung&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/foreverXyoung?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/foreverXyoung?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-  </p>
+<!-- 访问统计 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foreverXyoung&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+  <img src="https://img.shields.io/github/followers/foreverXyoung?style=for-the-badge&color=4F46E5&labelColor=141321" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/foreverXyoung?style=for-the-badge&color=06B6D4&labelColor=141321" alt="星标" />
+</p>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <!-- 分隔线 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=3" width="100%" />
 </div>
 
 <!-- 技能与工具 -->
@@ -77,12 +77,12 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,pytorch,ros,git,github,vscode,linux&perline=11" />
-<img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,react,vue,nodejs,flask,fastapi,html,css,javascript&perline=11" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,react,vue,nodejs,flask,fastapi,html,css,javascript&perline=11" />
 </div>
 
 <!-- 分隔线 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=3" width="100%" />
 </div>
 
 <!-- 社区贡献 -->
@@ -100,7 +100,7 @@
 
 <!-- 分隔线 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=3" width="100%" />
 </div>
 
 <!-- 精选项目 -->
@@ -111,19 +111,19 @@
 
 <div align="center">
   <a href="https://github.com/foreverXyoung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=foreverXyoung&repo=foreverXyoung&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=foreverXyoung&repo=foreverXyoung&theme=radical&hide_border=true&title_color=4F46E5" width="49%" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/foreverXyoung?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+    <img src="https://img.shields.io/badge/更多项目-查看全部-%234F46E5?style=for-the-badge&logo=github" alt="查看更多项目" />
   </a>
 </div>
 
 <!-- 分隔线 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=3" width="100%" />
 </div>
 
 <!-- GitHub 活动 -->
@@ -139,12 +139,12 @@
 
 <!-- 分隔线 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=3" width="100%" />
 </div>
 
 <!-- 动态语录 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E8%AE%A9%E6%9C%BA%E5%99%A8%E6%9B%B4%E6%99%BA%E8%83%BD%EF%BC%8C%E8%AE%A9%E6%84%9F%E7%9F%A5%E6%9B%B4%E7%B2%BE%E5%87%86%E3%80%82%E2%80%9D;%E2%80%9C%E6%8C%96%E6%8E%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%99%BA%E8%83%BD%E7%9A%84%E8%BE%BE%E5%B2%9B%E4%B8%8E%E6%B5%B7%E6%B4%8B%E3%80%82%E2%80%9D;%E2%80%9C%E5%A4%9A%E6%BA%90%E8%AE%BE%E5%A4%87%E8%9E%8D%E5%90%88%EF%BC%8C%E8%AE%A9%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E6%9B%B4%E5%87%86%E7%A1%8E%E3%80%82%E2%80%9D" alt="编程名言" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E8%AE%A9%E6%9C%BA%E5%99%A8%E6%9B%B4%E6%99%BA%E8%83%BD%EF%BC%8C%E8%AE%A9%E6%84%9F%E7%9F%A5%E6%9B%B4%E7%B2%BE%E5%87%86%E3%80%82%E2%80%9D;%E2%80%9C%E6%8C%96%E6%8E%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%99%BA%E8%83%BD%E7%9A%84%E8%BE%BE%E5%B2%9B%E4%B8%8E%E6%B5%B7%E6%B4%8B%E3%80%82%E2%80%9D;%E2%80%9C%E5%A4%9A%E6%BA%90%E8%AE%BE%E5%A4%87%E8%9E%8D%E5%90%88%EF%BC%8C%E8%AE%A9%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E6%9B%B4%E5%87%86%E7%A1%8E%E3%80%82%E2%80%9D" alt="编程名言" />
 </div>
 
 <!-- 页脚 -->
@@ -158,4 +158,4 @@
   <i>让我们一起探索人工智能的无限可能!✨</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:818CF8,100:8B5CF6&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
