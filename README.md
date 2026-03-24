@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- 标题横幅 -->
+  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=280&section=header&text=Xiaoyang+Fan&fontSize=80&fontAlignY=30&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=70&descAlign=30&descSize=20" />
+</div>
 
   # 👋 Hello, here is Xiaoyang Fan
 
