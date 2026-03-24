@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=300&section=header&text=Xiaoyang+Fan&fontSize=85&fontAlignY=28&fontAlign=center&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=68&descAlign=center&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=300&section=header&text=Xiaoyang+Fan&fontSize=85&fontAlignY=28&fontAlign=center&animation=fadeIn&fontColor=white&desc=大模型与AI系统+%7C+机器人与具身智能&descAlignY=68&descAlign=center&descSize=18" />
 </div>
 
 <h2 align="center">👋 Hello, here is Xiaoyang Fan</h2>
@@ -155,7 +155,7 @@
 </h3>
 
 <p align="center">
-  <i>让我们一起探索机器人智能的无限可能!✨</i>
+  <i>让我们一起探索人工智能的无限可能!✨</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:818CF8,100:8B5CF6&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
