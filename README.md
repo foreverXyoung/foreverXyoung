@@ -94,9 +94,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foreverXyoung&theme=radical" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foreverXyoung&theme=radical" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=foreverXyoung&theme=radical" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foreverXyoung&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foreverXyoung&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=foreverXyoung&theme=tokyonight" width="33%" />
 </div>
 
 <!-- 分隔线 -->
@@ -112,7 +112,7 @@
 
 <div align="center">
   <a href="https://github.com/foreverXyoung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=foreverXyoung&repo=foreverXyoung&theme=radical&hide_border=true&title_color=0891B2" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=foreverXyoung&repo=foreverXyoung&theme=tokyonight&hide_border=true&title_color=0891B2" width="49%" />
   </a>
 </div>
 
@@ -135,7 +135,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foreverXyoung&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foreverXyoung&theme=tokyonight" width="100%" />
 </div>
 
 <!-- 分隔线 -->
