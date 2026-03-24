@@ -31,7 +31,7 @@
 </h2>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="8" width="95%">
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
 <tr>
 <td width="34%" align="center" valign="top">
 
