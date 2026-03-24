@@ -27,17 +27,17 @@
   关于我
 </h2>
 
-<div align="center" style="width: 150%; margin: 0 auto;">
+<div align="center" style="width: 100%; margin: 0 auto;">
 <table border="0" cellspacing="0" cellpadding="8" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
 <h4 style="font-size: 18px;">🧠 大模型与 AI 系统</h4>
 🤖 专注大语言模型训练与推理<br/>
-⚡ 深耕多模态模型与 AI 应用部署<br/>
-🌐 探索 RLHF 与强化学习算法<br/>
+⚡ 深耕多模态模型与AI应用<br/>
+🌐 探索RLHF与强化学习算法<br/>
 📊 研究模型压缩与端侧部署<br/>
-🔧 实践 vLLM / TensorRT 推理优化
+🔧 实践vLLM/TensorRT推理优化
 
 </td>
 <td width="34%" align="center" valign="top">
@@ -56,7 +56,7 @@
 📷 专注相机视觉与目标检测<br/>
 🖼️ 探索双目视觉与深度估计<br/>
 🔮 研究 RGB-D 与激光雷达融合<br/>
-💨 实践 GNSS/RTK/IMU 组合导航<br/>
+💨 实践GNSS/RTK/IMU组合导航<br/>
 📡 融合多传感器 slam 与定位
 
 </td>
