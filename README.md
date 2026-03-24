@@ -94,8 +94,8 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foreverXyoung&theme=prussian" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foreverXyoung&theme=prussian" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foreverXyoung&theme=prussian&hide_border=true" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverXyoung&theme=prussian&hide_border=true&layout=compact" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=foreverXyoung&theme=prussian" width="33%" />
 </div>
 
