@@ -80,7 +80,8 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,pytorch,ros,git,github,vscode,linux,docker,mysql,mongodb,react,vue,nodejs,flask,fastapi,html,css,javascript&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,pytorch,ros,git,github,vscode,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,react,vue,nodejs,flask,fastapi,html,css,javascript&perline=11" />
 </div>
 
 <!-- 分隔线 -->
