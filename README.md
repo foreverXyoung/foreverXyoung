@@ -37,7 +37,7 @@
 ⚡ 深耕多模态模型与AI应用<br/>
 🌐 探索RLHF与强化学习算法<br/>
 📊 研究模型压缩与端侧部署<br/>
-🔧 实践vLLM/TensorRT推理优化
+🔧 vLLM/TensorRT推理优化
 
 </td>
 <td width="34%" align="center" valign="top">
@@ -56,7 +56,7 @@
 📷 专注相机视觉与目标检测<br/>
 🖼️ 探索双目视觉与深度估计<br/>
 🔮 研究 RGB-D 与激光雷达融合<br/>
-💨 实践GNSS/RTK/IMU组合导航<br/>
+💨 GNSS/RTK/IMU组合导航<br/>
 📡 融合多传感器 slam 与定位
 
 </td>
