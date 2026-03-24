@@ -81,17 +81,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,pytorch,ros,git,github,vscode,linux,docker,mysql,mongodb,latex&perline=15" />
-</div>
-
-<div align="center">
-
-| 大模型与 AI | 机器学习 | 无人驾驶 | 网页开发 |
-|:---:|:---:|:---:|:---:|
-| Python / C++ / CUDA | TensorFlow / PyTorch | ROS / RViz / Gazebo | React / Vue / Node.js |
-| vLLM / Ollama / TensorRT | Scikit-learn / OpenCV | MATLAB / Simulink | Flask / FastAPI / Next.js |
-| LangChain / RAG / Agent | Jupyter / Anaconda | Carla / LGSVL | MySQL / MongoDB / Redis |
-
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cuda,matlab,tensorflow,pytorch,ros,git,github,vscode,linux,docker,mysql,mongodb,latex,react,vue,nodejs,flask,fastapi,nextjs,redis,opencv,jupyter,scikitlearn,sqlite&perline=13" />
 </div>
 
 <!-- 擅长领域标题 - 统一样式并对齐图标 -->
